@@ -55,7 +55,7 @@ a.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Govt. High. Sec. School</title>
+<title> Temple</title>
 </head>
 <body bgcolor="lime">
 <h1 align="center">
