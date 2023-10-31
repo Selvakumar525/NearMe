@@ -24,8 +24,8 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
+# map.html
 ~~~
-map.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -51,8 +51,9 @@ map.html
 </body>
 </html>
 ~~~
+
+# a.html
 ~~~
-a.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -109,8 +110,8 @@ Einstein college of engineering offered courses
 </body>
 </html>
 ~~~
+# c.html
 ~~~
-c.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -138,8 +139,8 @@ The uses of Thamirabarani River in Tirunelveli District are
 </body>
 </html>
 ~~~
+# d.html
 ~~~
-d.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -167,8 +168,8 @@ The main objectives of Tirunelveli Government Higher Secondary School are
 </body>
 </html>
 ~~~
+# e.html
 ~~~
-e.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -195,6 +196,9 @@ e.html
 </html>
 ~~~
 ## OUTPUT
+# Map.html:
+![tirunelveli](https://github.com/Selvakumar525/NearMe/assets/120643262/724328e1-4bb4-47c7-8da1-485d63cb1ac9)
+
 # a.html:
 ![a html](https://github.com/Selvakumar525/NearMe/assets/120643262/da20c5bf-416f-4b6c-b5d5-067eb74b9595)
 
@@ -205,11 +209,8 @@ e.html
 # c.html:
 ![c html](https://github.com/Selvakumar525/NearMe/assets/120643262/3351fd37-d254-478a-884b-c31c56f3d510)
 
-
-
 # d.html:
 ![d html](https://github.com/Selvakumar525/NearMe/assets/120643262/0d7e6678-bd5f-4d1a-ab46-09bd9857f846)
-
 
 # e.html:
 ![e html](https://github.com/Selvakumar525/NearMe/assets/120643262/0cc282f3-a752-4050-9fa7-cd3a2dc77a3b)
