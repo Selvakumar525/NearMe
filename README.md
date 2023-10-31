@@ -197,8 +197,7 @@ The main objectives of Tirunelveli Government Higher Secondary School are
 ~~~
 ## OUTPUT
 # Map.html:
-![tirunelveli](https://github.com/Selvakumar525/NearMe/assets/120643262/724328e1-4bb4-47c7-8da1-485d63cb1ac9)
-
+![image](https://github.com/Selvakumar525/NearMe/assets/120643262/a7cc86a2-fa8f-453d-817a-c6bf770337e6)
 # a.html:
 ![image](https://github.com/Selvakumar525/NearMe/assets/120643262/6067257b-fe54-4c87-b2d8-6def3241218c)
 
