@@ -50,9 +50,6 @@ Execute the programs and publish them.
 ![WhatsApp Image 2023-10-30 at 13 22 31](https://github.com/Selvakumar525/NearMe/assets/120643262/37eb1d8f-e827-44b4-9d74-49d58a37af40)
 
 ![WhatsApp Image 2023-10-30 at 13 22 30](https://github.com/Selvakumar525/NearMe/assets/120643262/45cc95f5-9a4b-419e-911e-f5568ca638ae)
-# RESULT
-The program for implementing image maps using HTML is executed successfully.
-
 
 
 ## RESULT
