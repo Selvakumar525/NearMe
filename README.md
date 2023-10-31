@@ -32,7 +32,7 @@ map.html
 </head>
 <body>
 <h1 align="center">
-<font color="red"><b>Ariyalur - Cement City</b></font>
+<font color="red"><b>Tirunelveli  - Halwa City</b></font>
 </h1>
 <h3 align="center">
 <font color="blue"><b>Selva Kumar A (212222110042)</b></font>
@@ -40,11 +40,11 @@ map.html
 <center>
 <img src="map.png" usemap="#MyCity" height="420" width="1100">
 <map name="MyCity">
-<area shape="circle" coords="190,50,20" href="a.html" title="Govt. Higher Secondary School">
-<area shape="rectangle" coords="230,30,260,60" href="b.html" title="RTO Office">
-<area shape="circle" coords="400,350,50" href="c.html" title="Washerman's Lake">
-<area shape="circle" coords="400,200,75" href="d.html" title="Hi-Tech Bus Stand">
-<area shape="rectangle" coords="490,150,870,320" href="e.html" title="Eco-Park">
+<area shape="circle" coords="190,50,20" href="a.html" title="Arulmigu Nellaiappar Temple">
+<area shape="rectangle" coords="230,30,260,60" href="b.html" title="Einstein College of Engineering">
+<area shape="circle" coords="400,350,50" href="c.html" title="Thamirabarani River">
+<area shape="circle" coords="400,200,75" href="d.html" title="Govt.ADW higher secondary school">
+<area shape="rectangle" coords="490,150,870,320" href="e.html" title="Sankar Cements Cricket Ground">
 </map>
 </center>
 </body>
@@ -59,20 +59,20 @@ a.html
 </head>
 <body bgcolor="lime">
 <h1 align="center">
-<font color="red"><b>Ariyalur - Cement City</b></font>
+<font color="red"><b>Tirunelveli  - Halwa City</b></font>
 </h1>
 <h3 align="center">
-<font color="blue"><b>Government Higher Secondary School</b></font>
+<font color="blue"><b>Arulmigu Nellaiappar Temple</b></font>
 </h3>
 <hr size="3" color="red">
 <p align="justify">
 <font face="Georgia" size="5">
-The main objectives of Ariyalur Government Higher Secondary School are 
+The main objectives of  are Arulmigu Nellaiappar Temple.
 <ul>
-<li>To impart proper and qualified training to teachers and give them an attractive salary and incentives so that they are not tempted to quit and look elsewhere for jobs.</li>
-<li>To provide financial aids and grants wisely and judiciously.</li>
-<li>To Frame of syllabus and curriculum.</li>
-<li>To set aims and objectives of education.</li>
+<li>The Nellaiappar Temple is a Hindu temple dedicated to the deity Shiva, located in Tirunelveli, a city in the South Indian state of Tamil Nadu. .</li>
+<li> Shiva is worshipped as Nellaiappar represented by the lingam and his consort Parvati is depicted as Kanthimathi Amman.</li>
+<li>The temple complex is spread over an area of 14 acres and consists of several shrines and mandapams (halls)</li>
+<li>The temple has three six rituals at various times from 6:00 a.m. to 9:00 p.m., and six yearly festivals on its calendar. </li>
 </ul>
 </font>
 </p>
@@ -84,22 +84,24 @@ b.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>RTO Office</title>
+<title>Einstein College of Engineering</title>
 </head>
 <body bgcolor="pink">
 <h1 align="center">
-<font color="red"><b>Ariyalur - Cement City</b></font>
+<font color="red"><b>Tirunelveli  - Halwa City</b></font>
 </h1>
 <h3 align="center">
-<font color="blue"><b>RTO Office</b></font>
+<font color="blue"><b>Einstein College of Engineering</b></font>
 </h3>
 <hr size="3" color="red">
 <p align="justify">
 <font face="Arial" size="5">
+Einstein college of engineering offered courses
+<ul>
 <b>
-RTO office or the Regional Transport Office is a government body specifically established to oversee all transport-related operations in the country. RTOs are located throughout the country in each state and union territory. RTOs are responsible for enforcing the rules as laid down by the Motor Vehicle Act of 1988.
-The department also maintains a database of all the vehicles operating in the country as well as issues licenses for drivers. Besides, the RTO office also collects road taxes, supervises pollution checks, and ensures the enforcement of all road transportation rules. If you own or drive a vehicle in India, you will need to visit the RTO to get your vehicle registered, obtain a driver’s license or renew your driver’s license, etc.
-RTOs are also responsible for improving road and vehicle safety, especially to avoid accidents and other road fatalities.
+    <li>BE Civil Engineering</li>
+    <li>BE Computer engineering</li>
+   <li> BE  Electronics and Communications Engineering</li>
 </b>
 </font>
 </p>
@@ -111,19 +113,19 @@ c.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Washerman’s Lake</title>
+<title>Thamirabarani River</title>
 </head>
 <body bgcolor="orange">
 <h1 align="center">
-<font color="red"><b>Ariyalur - Cement City</b></font>
+<font color="red"><b>Tirunelveli  - Halwa City</b></font>
 </h1>
 <h3 align="center">
-<font color="blue"><b>Washerman's Lake</b></font>
+<font color="blue"><b>Thamirabarani River</b></font>
 </h3>
 <hr size="3" color="red">
 <p align="justify">
 <font face="Georgia" size="5">
-The uses of Washerman's Lake in Ariyalur District are 
+The uses of Thamirabarani River in Tirunelveli District are 
 <ol type="1">
 <li>Lake is used for rain water harvesting.</li>
 <li>It is used for drinking.</li>
@@ -140,30 +142,25 @@ d.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Bus Stand</title>
+<title>Govt. High. Sec. School</title>
 </head>
-<body bgcolor="cyan">
+<body bgcolor="lime">
 <h1 align="center">
-<font color="red"><b>Ariyalur - Cement City</b></font>
+<font color="red"><b>Tirunelveli  - Halwa City</b></font>
 </h1>
 <h3 align="center">
-<font color="blue"><b>Hi-Tech Bus Stand</b></font>
+<font color="blue"><b>Govt.ADW higher secondary school</b></font>
 </h3>
 <hr size="3" color="red">
 <p align="justify">
-<font face="Courier New" size="5">
-<b>
-Ariyalur district is an administrative district, one of the 38 districts in the 
-state of Tamil Nadu in India. The district headquarters is located at Ariyalur. 
-The district encompasses an area of 1,949.31 km². Gangaikonda Cholapuram, 
-built by King Rajendra Cholan of Chola Empire, is a UNESCO World Heritage site 
-situated in this district. The district is also known for its rich prehistoric 
-fossils. Many fossils of gigantic molluscs and jawed fishes, at least one 
-fossilized dinosaur egg, and several fragmentary fossils of sauropod and theropod 
-dinosaurs have been discovered here. An on-site museum is being set up at 
-Keelapazhur to preserve and conserve fossils. Ariyalur is noted for its cement
- industries and Jayankondam has huge reserves of lignite.
-</b>
+<font face="Georgia" size="5">
+The main objectives of Tirunelveli Government Higher Secondary School are 
+<ul>
+<li>To impart proper and qualified training to teachers and give them an attractive salary and incentives so that they are not tempted to quit and look elsewhere for jobs.</li>
+<li>To provide financial aids and grants wisely and judiciously.</li>
+<li>To Frame of syllabus and curriculum.</li>
+<li>To set aims and objectives of education.</li>
+</ul>
 </font>
 </p>
 </body>
@@ -174,47 +171,48 @@ e.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Eco-Park</title>
+<title>Cricket Ground</title>
 </head>
 <body bgcolor="yellow">
 <h1 align="center">
-<font color="red"><b>Ariyalur - Cement City</b></font>
+<font color="red"><b>Tirunelveli  - Halwa City</b></font>
 </h1>
 <h3 align="center">
-<font color="blue"><b>Eco-Park</b></font>
+<font color="blue"><b>Sankar Cements Cricket Ground</b></font>
 </h3>
 <hr size="3" color="red">
 <p align="justify">
 <font face="Tahoma" size="5">
-A very nice park near Ariyalur bus stand. It is located surrounding the Chetty Lake. 
-Very superb calm place in ariyalur. Best for walking. Nice playing place for kids.
-Well maintained with jogging track. Source of ground water.
-Good place play with children.  In Banyan Tree lot of parrot stay like house. 
-Good sound and Air. Lake view park looks awesome.
-Very nice place at Ariyalur.
-Simple and relax with play area.
-</font>
+    Cricket ground 
+<ul> Indian Cement Company Ground, also known as ICL Sankar Nagar Cricket Ground is a cricket ground located in Tirunelveli in Tamil Nadu, India.[2][3] The ground is in Bala Vidyalaya School run by India Cements.[4] It is adjacent to the NH 44 in the village of Thaliyuthu.[4][5]
+
+    From 2016, the ground has been used for hosting Tamil Nadu Premier League (TNPL) matches.[6][7][8] As of 2020, it has hosted eight first-class and two List A cricket matches.[9]
+</font></ul>
+   
 </p>
 </body>
 </html>
 ~~~
 ## OUTPUT
 # a.html:
-![image](https://github.com/Selvakumar525/NearMe/assets/120643262/f62cccf8-7d01-4af4-8ab3-f19b050d302a)
-
+![a html](https://github.com/Selvakumar525/NearMe/assets/120643262/da20c5bf-416f-4b6c-b5d5-067eb74b9595)
 
 # b.html:
-![image](https://github.com/Selvakumar525/NearMe/assets/120643262/ba729fb2-ef8a-4642-b438-24b2c46e5a37)
+![b html](https://github.com/Selvakumar525/NearMe/assets/120643262/0f7e8bb9-3381-4794-9921-c4a14afef5fa)
+
 
 # c.html:
-![image](https://github.com/Selvakumar525/NearMe/assets/120643262/ad825ab9-d07c-4769-8bb8-3b67a73549c4)
+![c html](https://github.com/Selvakumar525/NearMe/assets/120643262/3351fd37-d254-478a-884b-c31c56f3d510)
+
 
 
 # d.html:
-![Uploading image.png…]()
+![d html](https://github.com/Selvakumar525/NearMe/assets/120643262/0d7e6678-bd5f-4d1a-ab46-09bd9857f846)
+
 
 # e.html:
-![image](https://github.com/Selvakumar525/NearMe/assets/120643262/af5c910d-2b45-4d19-ac81-1b0dcd1f010f)
+![e html](https://github.com/Selvakumar525/NearMe/assets/120643262/0cc282f3-a752-4050-9fa7-cd3a2dc77a3b)
+
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
