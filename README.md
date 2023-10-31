@@ -199,10 +199,22 @@ Simple and relax with play area.
 </html>
 ~~~
 ## OUTPUT
-![WhatsApp Image 2023-10-30 at 13 22 31](https://github.com/Selvakumar525/NearMe/assets/120643262/37eb1d8f-e827-44b4-9d74-49d58a37af40)
+# a.html:
+![image](https://github.com/Selvakumar525/NearMe/assets/120643262/f62cccf8-7d01-4af4-8ab3-f19b050d302a)
 
-![WhatsApp Image 2023-10-30 at 13 22 30](https://github.com/Selvakumar525/NearMe/assets/120643262/45cc95f5-9a4b-419e-911e-f5568ca638ae)
 
+# b.html:
+![image](https://github.com/Selvakumar525/NearMe/assets/120643262/ba729fb2-ef8a-4642-b438-24b2c46e5a37)
+
+# c.html:
+![image](https://github.com/Selvakumar525/NearMe/assets/120643262/ad825ab9-d07c-4769-8bb8-3b67a73549c4)
+
+
+# d.html:
+![Uploading image.png…]()
+
+# e.html:
+![image](https://github.com/Selvakumar525/NearMe/assets/120643262/af5c910d-2b45-4d19-ac81-1b0dcd1f010f)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
