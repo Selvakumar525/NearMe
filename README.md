@@ -24,28 +24,180 @@ Execute the programs and publish them.
 
 ## CODE
 ~~~
+map.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Map</title>
+<title>My City</title>
 </head>
 <body>
-    <img src="Map.png" usemap="#image-map">
-
-    <map name="image-map">
-        <area target="_blank" alt="Chennai Central" title="Chennai Central" href="https://www.google.co.in/maps/place/Central+Railway+Station/@13.0823063,80.2755963,15.78z/data=!4m14!1m7!3m6!1s0x3a5265ffee00643b:0x392710ab0f3eeffd!2sCentral+Railway+Station!8m2!3d13.083397!4d80.276202!16s%2Fg%2F11byl4s_jc!3m5!1s0x3a5265ffee00643b:0x392710ab0f3eeffd!8m2!3d13.083397!4d80.276202!16s%2Fg%2F11byl4s_jc?entry=ttu" coords="962,331,1127,450" shape="rect">
-        <area target="_blank" alt="Chennai Port" title="Chennai Port" href="https://www.google.co.in/maps/place/CHENNAI+PORT/@13.0823063,80.2755963,15.78z/data=!4m6!3m5!1s0x3a526f83c4dce21d:0x57cabad0ac5e38f2!8m2!3d13.0841394!4d80.2934778!16s%2Fg%2F11k8fg4g8v?entry=ttu" coords="1762,307,1876,413" shape="rect">
-        <area target="_blank" alt="Chennai Egmore " title="Chennai Egmore " href="https://www.google.co.in/maps/place/Chennai+Egmore/@13.0778715,80.2552492,15z/data=!4m6!3m5!1s0x3a526609638a76a5:0xa605f681010b8b85!8m2!3d13.0778704!4d80.2612511!16s%2Fg%2F1ptwx_b9q?entry=ttu" coords="87,666,263,723" shape="rect">
-        <area target="_blank" alt="Rajiv Gandhi Govt Hospital" title="Rajiv Gandhi Govt Hospital" href="https://www.google.co.in/maps/place/Rajiv+Gandhi+Government+General+Hospital/@13.0823063,80.2755963,15.78z/data=!4m14!1m7!3m6!1s0x3a5265ffee00643b:0x392710ab0f3eeffd!2sCentral+Railway+Station!8m2!3d13.083397!4d80.276202!16s%2Fg%2F11byl4s_jc!3m5!1s0x3a5268aabbad9a9f:0xf749acda22be400d!8m2!3d13.0810567!4d80.2781508!16zL20vMGQycWdk?entry=ttu" coords="1031,487,1192,567" shape="rect">
-        <area target="_blank" alt="Fort St. George Museum" title="Fort St. George Museum" href="https://www.google.co.in/maps/place/Fort+St.George+Museum/@13.0823063,80.2755963,15.78z/data=!4m14!1m7!3m6!1s0x3a5265ffee00643b:0x392710ab0f3eeffd!2sCentral+Railway+Station!8m2!3d13.083397!4d80.276202!16s%2Fg%2F11byl4s_jc!3m5!1s0x3a5268ad0fe75195:0x4cff4a37449c92fd!8m2!3d13.0806383!4d80.2876185!16zL20vMDJ5Njhs?entry=ttu" coords="1444,495,1647,597" shape="rect">
-        <area target="_blank" alt="Nehru Stadium" title="Nehru Stadium" href="https://www.google.co.in/maps/place/Jawaharlal+Nehru+Stadium/@13.0823063,80.2755963,15.78z/data=!4m14!1m7!3m6!1s0x3a5265ffee00643b:0x392710ab0f3eeffd!2sCentral+Railway+Station!8m2!3d13.083397!4d80.276202!16s%2Fg%2F11byl4s_jc!3m5!1s0x3a5265fbe6a909ab:0x5a6046dfc9f0d784!8m2!3d13.0857373!4d80.2717476!16zL20vMDc4YzV5?entry=ttu" coords="667,229,809,360" shape="rect">
-    </map>
+<h1 align="center">
+<font color="red"><b>Ariyalur - Cement City</b></font>
+</h1>
+<h3 align="center">
+<font color="blue"><b>Selva Kumar A (212222110042)</b></font>
+</h3>
+<center>
+<img src="map.png" usemap="#MyCity" height="420" width="1100">
+<map name="MyCity">
+<area shape="circle" coords="190,50,20" href="a.html" title="Govt. Higher Secondary School">
+<area shape="rectangle" coords="230,30,260,60" href="b.html" title="RTO Office">
+<area shape="circle" coords="400,350,50" href="c.html" title="Washerman's Lake">
+<area shape="circle" coords="400,200,75" href="d.html" title="Hi-Tech Bus Stand">
+<area shape="rectangle" coords="490,150,870,320" href="e.html" title="Eco-Park">
+</map>
+</center>
 </body>
 </html>
 ~~~
-
+~~~
+a.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Govt. High. Sec. School</title>
+</head>
+<body bgcolor="lime">
+<h1 align="center">
+<font color="red"><b>Ariyalur - Cement City</b></font>
+</h1>
+<h3 align="center">
+<font color="blue"><b>Government Higher Secondary School</b></font>
+</h3>
+<hr size="3" color="red">
+<p align="justify">
+<font face="Georgia" size="5">
+The main objectives of Ariyalur Government Higher Secondary School are 
+<ul>
+<li>To impart proper and qualified training to teachers and give them an attractive salary and incentives so that they are not tempted to quit and look elsewhere for jobs.</li>
+<li>To provide financial aids and grants wisely and judiciously.</li>
+<li>To Frame of syllabus and curriculum.</li>
+<li>To set aims and objectives of education.</li>
+</ul>
+</font>
+</p>
+</body>
+</html>
+~~~
+~~~
+b.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>RTO Office</title>
+</head>
+<body bgcolor="pink">
+<h1 align="center">
+<font color="red"><b>Ariyalur - Cement City</b></font>
+</h1>
+<h3 align="center">
+<font color="blue"><b>RTO Office</b></font>
+</h3>
+<hr size="3" color="red">
+<p align="justify">
+<font face="Arial" size="5">
+<b>
+RTO office or the Regional Transport Office is a government body specifically established to oversee all transport-related operations in the country. RTOs are located throughout the country in each state and union territory. RTOs are responsible for enforcing the rules as laid down by the Motor Vehicle Act of 1988.
+The department also maintains a database of all the vehicles operating in the country as well as issues licenses for drivers. Besides, the RTO office also collects road taxes, supervises pollution checks, and ensures the enforcement of all road transportation rules. If you own or drive a vehicle in India, you will need to visit the RTO to get your vehicle registered, obtain a driver’s license or renew your driver’s license, etc.
+RTOs are also responsible for improving road and vehicle safety, especially to avoid accidents and other road fatalities.
+</b>
+</font>
+</p>
+</body>
+</html>
+~~~
+~~~
+c.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Washerman’s Lake</title>
+</head>
+<body bgcolor="orange">
+<h1 align="center">
+<font color="red"><b>Ariyalur - Cement City</b></font>
+</h1>
+<h3 align="center">
+<font color="blue"><b>Washerman's Lake</b></font>
+</h3>
+<hr size="3" color="red">
+<p align="justify">
+<font face="Georgia" size="5">
+The uses of Washerman's Lake in Ariyalur District are 
+<ol type="1">
+<li>Lake is used for rain water harvesting.</li>
+<li>It is used for drinking.</li>
+<li>Pisculture.</li>
+<li>For bathing, washing clothes etc.</li>
+</ol>
+</font>
+</p>
+</body>
+</html>
+~~~
+~~~
+d.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Bus Stand</title>
+</head>
+<body bgcolor="cyan">
+<h1 align="center">
+<font color="red"><b>Ariyalur - Cement City</b></font>
+</h1>
+<h3 align="center">
+<font color="blue"><b>Hi-Tech Bus Stand</b></font>
+</h3>
+<hr size="3" color="red">
+<p align="justify">
+<font face="Courier New" size="5">
+<b>
+Ariyalur district is an administrative district, one of the 38 districts in the 
+state of Tamil Nadu in India. The district headquarters is located at Ariyalur. 
+The district encompasses an area of 1,949.31 km². Gangaikonda Cholapuram, 
+built by King Rajendra Cholan of Chola Empire, is a UNESCO World Heritage site 
+situated in this district. The district is also known for its rich prehistoric 
+fossils. Many fossils of gigantic molluscs and jawed fishes, at least one 
+fossilized dinosaur egg, and several fragmentary fossils of sauropod and theropod 
+dinosaurs have been discovered here. An on-site museum is being set up at 
+Keelapazhur to preserve and conserve fossils. Ariyalur is noted for its cement
+ industries and Jayankondam has huge reserves of lignite.
+</b>
+</font>
+</p>
+</body>
+</html>
+~~~
+~~~
+e.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Eco-Park</title>
+</head>
+<body bgcolor="yellow">
+<h1 align="center">
+<font color="red"><b>Ariyalur - Cement City</b></font>
+</h1>
+<h3 align="center">
+<font color="blue"><b>Eco-Park</b></font>
+</h3>
+<hr size="3" color="red">
+<p align="justify">
+<font face="Tahoma" size="5">
+A very nice park near Ariyalur bus stand. It is located surrounding the Chetty Lake. 
+Very superb calm place in ariyalur. Best for walking. Nice playing place for kids.
+Well maintained with jogging track. Source of ground water.
+Good place play with children.  In Banyan Tree lot of parrot stay like house. 
+Good sound and Air. Lake view park looks awesome.
+Very nice place at Ariyalur.
+Simple and relax with play area.
+</font>
+</p>
+</body>
+</html>
+~~~
 ## OUTPUT
 ![WhatsApp Image 2023-10-30 at 13 22 31](https://github.com/Selvakumar525/NearMe/assets/120643262/37eb1d8f-e827-44b4-9d74-49d58a37af40)
 
